@@ -1,0 +1,76 @@
+// Your custom SCSS should be written here...
+
+$foot_div_height: 12em;
+$border_footer: 1px solid rgba(255, 255, 255, 0.2);
+
+
+footer {
+	margin-top: 1.5em;
+	padding: 2em 0 2em 0;
+	@include respond(all-phones) {
+		padding: 0;
+	}
+	background: #1399bd;
+	color: white;
+	h4 {
+		color: white;
+	}
+	h5 {
+		color: white;
+	}
+	p {
+		@include font-size(14);
+	}
+	table#bangll {
+		margin: 1em 0 0em 0;
+		padding: 0;
+		background: none;
+		border: none;
+		tr {
+			height: 1.2em;
+			td {
+				line-height: 0.5em;
+				border: none;
+				@include font-size(14);
+				a {
+					text-decoration: none;
+					color: white;
+				}
+			}
+		}
+	}
+	div.border-right {
+		border-right: $border_footer;
+		@include respond(all-phones) {
+			border-right: none;
+			border-bottom: $border_footer;
+		}
+	}
+	div#first_row {
+		div {
+			margin: 0;
+			padding: 1em;
+			min-height: $foot_div_height;
+			@include respond(all-phones) {
+				min-height: 0;
+			}
+			margin-bottom: 1em;
+		}
+	}
+	div#second_row {
+		margin-top: 1em;
+		padding-top: 1em;
+		border-top: $border_footer;
+		@include respond(all-phones) {
+			padding: 1em 0 1em 0;
+		}
+	}
+}
+
+// Trang chu CSS
+
+div#trangchu_header {
+	h5 {
+		margin-bottom: 2em;
+	}
+}

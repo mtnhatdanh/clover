@@ -1,0 +1,1440 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"transition",
+				"transition	Compass"
+			],
+			[
+				"b",
+				"background	Compass"
+			],
+			[
+				"trai",
+				"transition	Compass"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"test",
+				"test_btn"
+			],
+			[
+				"radio-btn",
+				"radio-btn1"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"TES",
+				"test_btn"
+			],
+			[
+				"DO",
+				"document"
+			],
+			[
+				"th",
+				"thead	Tag"
+			],
+			[
+				"strto",
+				"strtotime"
+			],
+			[
+				"rs",
+				"rs2"
+			],
+			[
+				"ngay",
+				"ngay"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"trang",
+				"trangthai"
+			],
+			[
+				"mysql_fetch",
+				"mysql_fetch_assoc"
+			],
+			[
+				"mysql_fet",
+				"mysql_fetch_row"
+			],
+			[
+				"nga",
+				"ngay"
+			],
+			[
+				"baoca",
+				"baocao_form"
+			],
+			[
+				"for",
+				"form	Tag"
+			],
+			[
+				"mysql_fe",
+				"mysql_fetch_row"
+			],
+			[
+				"sql",
+				"sql2"
+			],
+			[
+				"id",
+				"idUser"
+			],
+			[
+				"tr",
+				"tr	Tag"
+			],
+			[
+				"NGAY",
+				"ngayketthuc"
+			],
+			[
+				"onl",
+				"onclick	Attr"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"marin",
+				"margin-bottom"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"no",
+				"no-bullet	Compass"
+			],
+			[
+				"tranght",
+				"trangthai"
+			],
+			[
+				"idhoa",
+				"idHoadon"
+			],
+			[
+				"idho",
+				"idHoadon"
+			],
+			[
+				"get",
+				"get	Get Elements"
+			],
+			[
+				"khach",
+				"khachhangtt"
+			],
+			[
+				"margn",
+				"margin-bottom"
+			],
+			[
+				"khachhang",
+				"khachhang_xuly"
+			],
+			[
+				"mysql_ro",
+				"mysql_num_rows"
+			],
+			[
+				"muc",
+				"mucChietkhau"
+			],
+			[
+				"huyph",
+				"huyphieu_xuly"
+			],
+			[
+				"_se",
+				"_SESSION"
+			],
+			[
+				"hoado",
+				"hoadon_in"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"a",
+				"ajax"
+			],
+			[
+				"i",
+				"id	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "sass/_custom.scss",
+			"settings":
+			{
+				"buffer_size": 1165,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 7280,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "modules/trangchu.php",
+			"settings":
+			{
+				"buffer_size": 338,
+				"line_ending": "Unix",
+				"name": "<h1>Test</h1>"
+			}
+		},
+		{
+			"file": "sass/var/_settings.scss",
+			"settings":
+			{
+				"buffer_size": 3379,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ui.html",
+			"settings":
+			{
+				"buffer_size": 64015,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/ui/_navbar.scss",
+			"settings":
+			{
+				"buffer_size": 10385,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"com",
+				"Set Syntax: Compass + SCSS"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"compa",
+				"Set Syntax: Compass + SCSS"
+			],
+			[
+				"CSS",
+				"Set Syntax: CSS"
+			],
+			[
+				"jquer",
+				"Snippet: jQuery ready function"
+			],
+			[
+				"jque",
+				"Snippet: jQuery click handler"
+			],
+			[
+				"JQUE",
+				"Snippet: jQuery ready function"
+			],
+			[
+				"HTML",
+				"Set Syntax: HTML"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"phpcs",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"packe",
+				"Package Control: Remove Package"
+			],
+			[
+				"comp",
+				"Set Syntax: Compass + SCSS"
+			],
+			[
+				"copy",
+				"File: Copy Path From Project"
+			],
+			[
+				"copy ",
+				"File: Copy Path From Project"
+			],
+			[
+				"file: cop",
+				"File: Copy Path"
+			],
+			[
+				"jqu",
+				"Snippet: A basic jQuery selector"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"sass",
+				"Set Syntax: Compass + SCSS"
+			],
+			[
+				"scss",
+				"Set Syntax: Compass + SCSS"
+			],
+			[
+				"git",
+				"Git: Pull"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/minhgiang/Sites/Clover/ui.html",
+		"/Users/minhgiang/Sites/Clover/.sass-cache/d1b50df3607ebed9cfd49dcb2307114f52e84e17/_settings.scssc",
+		"/Users/minhgiang/Sites/Clover/index.php",
+		"/Users/minhgiang/Sites/Clover/sass/var/_settings.scss",
+		"/Users/minhgiang/Sites/Clover/sass/ui/_navbar.scss",
+		"/Users/minhgiang/Sites/Clover/demo.html",
+		"/Users/minhgiang/Sites/CoffeeShop/tonghop.php",
+		"/Users/minhgiang/Sites/CoffeeShop/module/suaphieu_hoadon.php",
+		"/Users/minhgiang/Sites/CoffeeShop/js/function.js",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/admin.php",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/moduleAM/lienhe.php",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/ui.html",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/img/logoRP.png",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/moduleAM/chietkhau_quanly.php",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/moduleAM/khachhang_quanly.php",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/moduleAM/khachhang_create.php",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/moduleAM/khachhang_update.php",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/sass/_custom.scss",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/moduleAM/chietkhau_create.php",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/moduleAM/chietkhau_update.php",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/sass/var/_settings.scss",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/moduleAM/mon_quanly.php",
+		"/Users/minhgiang/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/moduleAM/user_update.php",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/moduleAM/user_create.php",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/moduleAM/mon_update.php",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/moduleAM/mon_create.php",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/moduleAM/loai_update.php",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/moduleAM/loai_create.php",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/moduleAM/khuvuc_update.php",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/moduleAM/khuvuc_create.php",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/moduleAM/ban_update.php",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/moduleAM/ban_create.php",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/moduleAM/user_quanly.php",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/moduleAM/loai_quanly.php",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/moduleAM/ban_quanly.php",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/TEST.html",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/test.html",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/sass/test.html",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/moduleAM/khuvuc_quanly.php",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/moduleAM/baocao_chitiethoadon.php",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/moduleAM/baocao_hoadonhuy.php",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/moduleAM/baocao_doanhthu.php",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/moduleAM/baocao_soluong.php",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/moduleAM/baocao_ngay.php",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/sass/_base.scss",
+		"/Users/minhgiang/Sites/CoffeeShop/module/thanhtoan_hoadon.php",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/sass/functions/_responsivity.scss",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/.sass-cache/62ee58d5af914d9db54c234dd96f9ed64607eebc/_settings.scssc",
+		"/Users/minhgiang/Library/Application Support/Sublime Text 3/Packages/Phpcs/phpcs.sublime-settings",
+		"/Users/minhgiang/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/minhgiang/Library/Application Support/Sublime Text 3/Packages/User/DocComment.sublime-snippet",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/moduleAM/baocao_chitiethoadon",
+		"/Users/minhgiang/Sites/CoffeeShop/login.php",
+		"/Users/minhgiang/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/minhgiang/pear/bin/phpcs",
+		"/Applications/XAMPP/xamppfiles/etc/php.ini",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/moduleAM/doanhthu_thoigian.php",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/moduleAM/doanhthu_ngay.php",
+		"/Users/minhgiang/Sites/CoffeeShop/coffeeShop.sublime-project",
+		"/Users/minhgiang/Library/Application Support/Sublime Text 3/Packages/User/phpcs.sublime-settings",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/moduleAM/doanhthu_thoigian",
+		"/Users/minhgiang/Downloads/pickadate.js-3.2.1/tests/dev/style.css",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/js/pickadate.js-3.2.1/test.html",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/js/pickadate.js-3.2.1/date.htm",
+		"/Users/minhgiang/Sites/CoffeeShop/js/datePicker/themes/default.css",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/admincss/admin.css",
+		"/Users/minhgiang/Sites/CoffeeShop/module/loai_chon.php",
+		"/Users/minhgiang/Sites/CoffeeShop/module/khuvuc_ban.php",
+		"/Users/minhgiang/Sites/CoffeeShop/css/style.css",
+		"/Users/minhgiang/Sites/CoffeeShop/css/tonghop.css",
+		"/Users/minhgiang/Sites/CoffeeShop/module/loai_mon.php",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/css/gumby.css",
+		"/Users/minhgiang/Library/Application Support/Sublime Text 3/Packages/User/gumby.sublime-snippet",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/admin2.php",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/admin1.php",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/humans.txt",
+		"/Users/minhgiang/Downloads/gumby-v2.4_custom (1)/sass/_custom.scss",
+		"/Users/minhgiang/Downloads/gumby-v2.4_custom (1)/css/gumby.css",
+		"/Users/minhgiang/Downloads/gumby-v2.4_custom (1)/ui.html",
+		"/Users/minhgiang/Downloads/gumby-v2.4_custom (1)/demo.html",
+		"/Users/minhgiang/Downloads/gumby-v2.4_custom (1)/sass/gumby.scss",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/demo.html",
+		"/Users/minhgiang/Sites/CoffeeShop/admin/README.md",
+		"/Users/minhgiang/Sites/CoffeeShop/module/suaphieu_xulymon.php",
+		"/Users/minhgiang/Sites/CoffeeShop/lb/object.php",
+		"/Users/minhgiang/Sites/CoffeeShop/module/khachhang_xuly.php",
+		"/Users/minhgiang/Sites/CoffeeShop/lb/connect.php",
+		"/Users/minhgiang/Sites/CoffeeShop/module/hoadon_xulyban.php",
+		"/Users/minhgiang/Sites/CoffeeShop/module/chuyenban_ketchuyen.php",
+		"/Users/minhgiang/Sites/CoffeeShop/module/session_reset.php",
+		"/Users/minhgiang/Sites/CoffeeShop/css/thanhtoan.css",
+		"/Users/minhgiang/Sites/CoffeeShop/module/thanhtoan_xuly.php",
+		"/Users/minhgiang/Sites/CoffeeShop/module/chuyenban_hoadon1.php",
+		"/Users/minhgiang/Sites/CoffeeShop/module/huyphieu_xuly.php",
+		"/Users/minhgiang/Sites/CoffeeShop/module/chuyenban_hoadon2.php",
+		"/Users/minhgiang/Sites/CoffeeShop/backMenuchinh.php",
+		"/Users/minhgiang/Sites/CoffeeShop/module/chuyenban_huy.php",
+		"/Users/minhgiang/Library/Application Support/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
+		"/Users/minhgiang/Sites/CoffeeShop/module/in_hoadon.php",
+		"/Users/minhgiang/Sites/CoffeeShop/module/in_hoadon",
+		"/Users/minhgiang/Sites/CoffeeShop/module/hoadon.php",
+		"/Users/minhgiang/Sites/CoffeeShop/thanhtoan.php",
+		"/Users/minhgiang/Sites/CoffeeShop/css/index.css",
+		"/Users/minhgiang/Sites/CoffeeShop/index.php",
+		"/Users/minhgiang/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/minhgiang/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/CHANGELOG"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"/Users/minhgiang/Sites/CoffeeShop/admin",
+			"/Users/minhgiang/Sites/CoffeeShop",
+			"/Volumes/Softwares/Project/CoffeeShop",
+			"/Users/minhgiang/Sites/CoffeeShop",
+			"/Users/minhgiang/Sites/CoffeeShop/module"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"color",
+			"nav",
+			"10px",
+			"nav",
+			"hover",
+			"> a",
+			"hover",
+			"width",
+			"hover",
+			"> a",
+			"hover",
+			"transition",
+			"hover",
+			"HOVER",
+			"nav",
+			"colgrid",
+			"jquery.min.map",
+			"Khách",
+			"khách",
+			"width",
+			"wrap",
+			"word wrap",
+			"wapper",
+			"five columns",
+			"siginput",
+			"width",
+			"word wrap",
+			"width",
+			"h3",
+			"width",
+			"h4",
+			"4",
+			"icon",
+			"align",
+			"class",
+			"script",
+			"					",
+			"errorFullname",
+			"div",
+			"h3",
+			"rounded",
+			"width",
+			"icon",
+			"user_update",
+			"button",
+			"parsley",
+			"($",
+			"p",
+			"three",
+			"twelve",
+			"hidden_p_phone",
+			"baocao_chitiethoadon",
+			"$gio",
+			"div",
+			"th",
+			"include_path",
+			"_POST",
+			"include_path",
+			"ngaybatdau",
+			"phpcs_php_path",
+			"portrait",
+			"zide",
+			"button",
+			"two",
+			"default",
+			"form",
+			"default",
+			"fieldset",
+			"default",
+			"menu__list",
+			"caption",
+			"modals",
+			"h4",
+			"h5",
+			"users",
+			");\n",
+			"min",
+			"Min",
+			"min",
+			"#khachhang",
+			"$idhoadon",
+			"huyphieu_xuly.php?idHoadon=",
+			"unset($_SESSION['ban']);",
+			"unset($_SESSION['user']);",
+			"$mucchietkhau",
+			"khtt_p",
+			"#khachhang",
+			"$chietkhau",
+			"$idhoadon",
+			"overflow",
+			"pointer",
+			"\n}"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "sass/_custom.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1165,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								150,
+								150
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Compass/Syntaxes/sass.tmlanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 73.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7280,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4549,
+								4549
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close"
+							],
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1307.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "modules/trangchu.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 338,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								143,
+								143
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_name": "<h1>Test</h1>",
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close"
+							],
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "sass/var/_settings.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3379,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1552,
+								1558
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close"
+							],
+							"syntax": "Packages/Compass/Syntaxes/sass.tmlanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 579.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "ui.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 64015,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6384,
+								6384
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2726.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "sass/ui/_navbar.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10385,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5766,
+								5880
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close"
+							],
+							"syntax": "Packages/Compass/Syntaxes/sass.tmlanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.git":
+	{
+		"height": 102.0
+	},
+	"project": "clover.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"nav",
+				"sass/ui/_navbar.scss"
+			],
+			[
+				"ui",
+				"ui.html"
+			],
+			[
+				"setting",
+				"sass/var/_settings.scss"
+			],
+			[
+				"_setting",
+				".sass-cache/d1b50df3607ebed9cfd49dcb2307114f52e84e17/_settings.scssc"
+			],
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"cu",
+				"sass/_custom.scss"
+			],
+			[
+				"na",
+				"sass/ui/_navbar.scss"
+			],
+			[
+				"sett",
+				"sass/var/_settings.scss"
+			],
+			[
+				"_setti",
+				"sass/var/_settings.scss"
+			],
+			[
+				"functi",
+				"js/function.js"
+			],
+			[
+				"suaphi",
+				"module/suaphieu_hoadon.php"
+			],
+			[
+				"admin",
+				"admin/admin.php"
+			],
+			[
+				"_set",
+				"admin/sass/var/_settings.scss"
+			],
+			[
+				"set",
+				"admin/sass/var/_settings.scss"
+			],
+			[
+				"khachhang",
+				"admin/moduleAM/khachhang_update.php"
+			],
+			[
+				"user",
+				"admin/moduleAM/user_quanly.php"
+			],
+			[
+				"chietkhau",
+				"admin/moduleAM/chietkhau_update.php"
+			],
+			[
+				"chiet",
+				"admin/moduleAM/chietkhau_quanly.php"
+			],
+			[
+				"mon",
+				"admin/moduleAM/mon_quanly.php"
+			],
+			[
+				"mon_up",
+				"admin/moduleAM/mon_update.php"
+			],
+			[
+				"loai",
+				"admin/moduleAM/loai_update.php"
+			],
+			[
+				"loai_up",
+				"admin/moduleAM/loai_update.php"
+			],
+			[
+				"ban_crea",
+				"admin/moduleAM/ban_create.php"
+			],
+			[
+				"khuvuc_up",
+				"admin/moduleAM/khuvuc_update.php"
+			],
+			[
+				"khuvuc",
+				"admin/moduleAM/khuvuc_create.php"
+			],
+			[
+				"update",
+				"admin/moduleAM/user_update.php"
+			],
+			[
+				"mon_create",
+				"admin/moduleAM/mon_create.php"
+			],
+			[
+				"user_up",
+				"admin/moduleAM/user_update.php"
+			],
+			[
+				"ban_upda",
+				"admin/moduleAM/ban_update.php"
+			],
+			[
+				"ban_cre",
+				"admin/moduleAM/ban_create.php"
+			],
+			[
+				"ban_up",
+				"admin/moduleAM/ban_update.php"
+			],
+			[
+				"ban",
+				"admin/moduleAM/ban_quanly.php"
+			],
+			[
+				"crea",
+				"admin/moduleAM/ban_create.php"
+			],
+			[
+				"khuvu",
+				"admin/moduleAM/khuvuc_create.php"
+			],
+			[
+				"ba",
+				"admin/moduleAM/ban_create.php"
+			],
+			[
+				"qua",
+				"admin/moduleAM/ban_quanly.php"
+			],
+			[
+				"baocao",
+				"admin/moduleAM/baocao_chitiethoadon.php"
+			],
+			[
+				"bao",
+				"admin/moduleAM/baocao_doanhthu.php"
+			],
+			[
+				"baocao_",
+				"admin/moduleAM/baocao_hoadonhuy.php"
+			],
+			[
+				"hoadon",
+				"module/thanhtoan_hoadon.php"
+			],
+			[
+				"chitiet",
+				"admin/moduleAM/baocao_chitiethoadon.php"
+			],
+			[
+				"suaphie",
+				"module/suaphieu_hoadon.php"
+			],
+			[
+				"quanly",
+				"admin/moduleAM/user_quanly.php"
+			],
+			[
+				"baochao",
+				"admin/moduleAM/baocao_chitiethoadon.php"
+			],
+			[
+				"doanhthu",
+				"admin/moduleAM/doanhthu_ngay.php"
+			],
+			[
+				"doanht",
+				"admin/moduleAM/doanhthu_thoigian.php"
+			],
+			[
+				"tes",
+				"admin/test.html"
+			],
+			[
+				"de",
+				"js/datePicker/themes/default.css"
+			],
+			[
+				"sty",
+				"css/style.css"
+			],
+			[
+				"tongho",
+				"css/tonghop.css"
+			],
+			[
+				"tong",
+				"tonghop.php"
+			],
+			[
+				"html",
+				"<!doctype html>"
+			],
+			[
+				"fuc",
+				"js/function.js"
+			],
+			[
+				"tonghop",
+				"css/tonghop.css"
+			],
+			[
+				"func",
+				"js/function.js"
+			],
+			[
+				".css",
+				"css/tonghop.css"
+			],
+			[
+				"thanhtoan",
+				"css/thanhtoan.css"
+			],
+			[
+				"style",
+				"css/style.css"
+			],
+			[
+				"suphieu",
+				"module/suaphieu_hoadon.php"
+			],
+			[
+				"suaphieu",
+				"module/suaphieu_xulymon.php"
+			],
+			[
+				"chuyenban_hoa",
+				"module/chuyenban_hoadon2.php"
+			],
+			[
+				"chuyenban_ket",
+				"module/chuyenban_ketchuyen.php"
+			],
+			[
+				"huyp",
+				"module/huyphieu_xuly.php"
+			],
+			[
+				"huyphi",
+				"module/huyphieu_xuly.php"
+			],
+			[
+				"se",
+				"module/session_reset.php"
+			],
+			[
+				"sess",
+				"module/session_reset.php"
+			],
+			[
+				"chuyenb",
+				"module/chuyenban_hoadon2.php"
+			],
+			[
+				"chuyenban_huy",
+				"module/chuyenban_huy.php"
+			],
+			[
+				"chuyen",
+				"module/chuyenban_hoadon1.php"
+			],
+			[
+				"thanhto",
+				"module/thanhtoan_xuly.php"
+			],
+			[
+				"in_hoa",
+				"module/in_hoadon.php"
+			],
+			[
+				"huyphieu",
+				"module/huyphieu_xuly.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
