@@ -2,10 +2,13 @@
 
 $foot_div_height: 12em;
 $border_footer: 1px solid rgba(255, 255, 255, 0.2);
+$background_GSection: #e9e9e9;
 
+div.wapper {
+	width: 100%;
+}
 
 footer {
-	margin-top: 1.5em;
 	padding: 2em 0 2em 0;
 	@include respond(all-phones) {
 		padding: 0;
@@ -71,6 +74,106 @@ footer {
 
 div#trangchu_header {
 	h5 {
-		margin-bottom: 2em;
+		margin-bottom: 1em;
+	}
+}
+
+nav#jlinks {
+	ul {
+		// @include display-box;
+		li {
+			// @include box-flex(1);
+			float: left;
+			width: 33%;
+			// @include transition(width 0.5s ease-out); // multiple: comma-delimited
+			min-width: 25%;
+			text-align: center;
+			// &:hover {
+			// 	width: 50%;
+			// }
+			a {
+				line-height: 2em;
+				color: white;
+			}
+		}
+		li#linhhoat {
+			background: #5bd999;
+			&:hover {
+				background: #4db882;
+			}
+		}
+		li#hieuqua {
+			background: #e6567a;
+			&:hover {
+				background: #c74867;
+			}
+		}
+		li#giamchiphi {
+			background: #ce72d1;
+			&:hover {
+				background: #af60b2;
+			}
+		}
+	}
+}
+
+div#G1 {
+	margin-top: 3em;
+	padding: 2em 0 2em 0;
+	background: $background_GSection;
+	article {
+		min-height: 20em;
+		div#linhhoat_img {
+			@include hidden(all-phones);
+			width: 20em;
+		}
+		div#linhhoat_nd {
+			padding-left: 5em;
+			@include respond(all-phones) {
+				padding-left: 0;
+			}
+			img {
+				margin-bottom: 1em;
+			}
+		}
+	}
+}
+
+div#G2 {
+	article {
+		min-height: 20em;
+		div#hieuqua_nd {
+			@include respond(all-phones) {
+				padding: 2em 0 2em 0;
+			}
+			img {
+				margin-bottom: 1em;
+			}
+		}
+		div#hieuqua_img {
+			@include hidden(all-phones);
+			width:20em;
+		}
+	}
+}
+
+div#G3 {
+	padding: 2em 0 2em 0;
+	background: $background_GSection;
+	article {
+		min-height: 20em;
+		div#tietkiem_img {
+			@include hidden(all-phones);
+			width: 18em;
+		}
+		div#tietkiem_nd {
+			padding-left: 5em;
+			@include respond(all-phones) {
+				padding-left: 0;
+			}
+			img {
+				margin-bottom: 1em;
+			}
+		}
 	}
 }

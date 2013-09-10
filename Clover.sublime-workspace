@@ -4,12 +4,20 @@
 		"selected_items":
 		[
 			[
-				"text",
-				"text-decoration"
+				"margin",
+				"margin-bottom"
 			],
 			[
-				"margin",
-				"margin"
+				"text",
+				"text-align"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"sty",
+				"list-style"
 			],
 			[
 				"font",
@@ -223,7 +231,7 @@
 			"file": "sass/_custom.scss",
 			"settings":
 			{
-				"buffer_size": 1165,
+				"buffer_size": 1398,
 				"line_ending": "Unix"
 			}
 		},
@@ -231,7 +239,7 @@
 			"file": "index.php",
 			"settings":
 			{
-				"buffer_size": 7280,
+				"buffer_size": 7272,
 				"line_ending": "Unix"
 			}
 		},
@@ -239,7 +247,7 @@
 			"file": "modules/trangchu.php",
 			"settings":
 			{
-				"buffer_size": 338,
+				"buffer_size": 616,
 				"line_ending": "Unix",
 				"name": "<h1>Test</h1>"
 			}
@@ -253,18 +261,10 @@
 			}
 		},
 		{
-			"file": "ui.html",
-			"settings":
-			{
-				"buffer_size": 64015,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "sass/ui/_navbar.scss",
 			"settings":
 			{
-				"buffer_size": 10385,
+				"buffer_size": 10391,
 				"line_ending": "Unix"
 			}
 		}
@@ -276,16 +276,16 @@
 		"selected_items":
 		[
 			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
 				"html",
 				"Set Syntax: HTML"
 			],
 			[
 				"com",
 				"Set Syntax: Compass + SCSS"
-			],
-			[
-				"css",
-				"Set Syntax: CSS"
 			],
 			[
 				"compa",
@@ -397,11 +397,11 @@
 	},
 	"file_history":
 	[
+		"/Users/minhgiang/Sites/Clover/sass/ui/_navbar.scss",
 		"/Users/minhgiang/Sites/Clover/ui.html",
+		"/Users/minhgiang/Sites/Clover/sass/var/_settings.scss",
 		"/Users/minhgiang/Sites/Clover/.sass-cache/d1b50df3607ebed9cfd49dcb2307114f52e84e17/_settings.scssc",
 		"/Users/minhgiang/Sites/Clover/index.php",
-		"/Users/minhgiang/Sites/Clover/sass/var/_settings.scss",
-		"/Users/minhgiang/Sites/Clover/sass/ui/_navbar.scss",
 		"/Users/minhgiang/Sites/Clover/demo.html",
 		"/Users/minhgiang/Sites/CoffeeShop/tonghop.php",
 		"/Users/minhgiang/Sites/CoffeeShop/module/suaphieu_hoadon.php",
@@ -526,6 +526,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"1399bd",
+			"info-hover-color",
+			"hover",
+			"c03d20",
+			"d04526",
+			"hover",
 			"color",
 			"nav",
 			"10px",
@@ -635,7 +641,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -644,15 +650,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1165,
+						"buffer_size": 1398,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								150,
-								150
+								1165,
+								1165
 							]
 						],
 						"settings":
@@ -660,22 +666,14 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
@@ -684,27 +682,36 @@
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
 								"bh_tag_close",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close"
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close"
 							],
-							"syntax": "Packages/Compass/Syntaxes/sass.tmlanguage"
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 73.0,
+						"translation.y": 627.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -715,15 +722,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7280,
+						"buffer_size": 7272,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4549,
-								4549
+								4541,
+								4541
 							]
 						],
 						"settings":
@@ -731,10 +738,26 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
@@ -747,36 +770,21 @@
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
 								"bh_tag_close",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close"
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close"
 							],
 							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1307.0,
+						"translation.y": 1599.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -787,15 +795,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 338,
+						"buffer_size": 616,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								143,
-								143
+								403,
+								403
 							]
 						],
 						"settings":
@@ -804,10 +812,26 @@
 							"auto_name": "<h1>Test</h1>",
 							"bh_regions":
 							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
@@ -820,32 +844,17 @@
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
 								"bh_tag_close",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close"
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close"
 							],
-							"syntax": "Packages/PHP/PHP.tmLanguage"
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -866,8 +875,8 @@
 						"selection":
 						[
 							[
-								1552,
-								1558
+								1734,
+								1739
 							]
 						],
 						"settings":
@@ -875,10 +884,26 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
@@ -891,126 +916,38 @@
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
 								"bh_tag_close",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close"
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close"
 							],
 							"syntax": "Packages/Compass/Syntaxes/sass.tmlanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 579.0,
+						"translation.y": 677.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 4,
-					"file": "ui.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 64015,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								6384,
-								6384
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close"
-							],
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 2726.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
 					"file": "sass/ui/_navbar.scss",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 10385,
+						"buffer_size": 10391,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5766,
-								5880
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1018,10 +955,26 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
@@ -1034,30 +987,14 @@
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
 								"bh_tag_close",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close"
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close"
 							],
 							"syntax": "Packages/Compass/Syntaxes/sass.tmlanguage",
 							"tab_size": 2,
@@ -1123,12 +1060,16 @@
 				"sass/ui/_navbar.scss"
 			],
 			[
-				"ui",
-				"ui.html"
+				"sett",
+				"sass/var/_settings.scss"
 			],
 			[
 				"setting",
 				"sass/var/_settings.scss"
+			],
+			[
+				"ui",
+				"ui.html"
 			],
 			[
 				"_setting",
@@ -1145,10 +1086,6 @@
 			[
 				"na",
 				"sass/ui/_navbar.scss"
-			],
-			[
-				"sett",
-				"sass/var/_settings.scss"
 			],
 			[
 				"_setti",

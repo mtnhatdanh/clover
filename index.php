@@ -30,7 +30,7 @@
     <meta name="keywords" content="" />
     <meta name="author" content="Minh Giang">
 
-    <link rel="shortcut icon" href="favicon.png" type="image/x-icon" />
+    <link rel="shortcut icon" href="clover.png" type="image/x-icon" />
 
     <!-- Facebook Metadata /-->
     <meta property="fb:page_id" content="" />
@@ -114,7 +114,7 @@
     <![endif]-->
 
     <header>
-        <nav class="pretty navbar" id="nav3">
+        <nav class="navbar" id="nav3">
             <div class="row">
                 <a class="toggle" gumby-trigger="#nav3 > .row > ul" href="#"><i class="icon-menu"></i></a>
                 <h1 class="six columns logo">
@@ -123,7 +123,7 @@
                     </a>
                 </h1>
                 <ul class="six columns">
-                    <li><a href="#">Giới thiệu</a></li>
+                    <li><a href="?mod=trangchu">Giới thiệu</a></li>
                     <li>
                         <a href="#">Sản phẩm</a>
                         <div class="dropdown">
