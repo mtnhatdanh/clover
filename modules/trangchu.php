@@ -1,5 +1,5 @@
 <div class="row text-center" id="trangchu_header">
-	<h1 class="lead" style="padding-bottom:0">Responsive Web Design</h1>
+	<h1 class="lead" style="padding-bottom:0; font-family:utm_facebookregular">Responsive Web Design</h1>
 	<h5 style="color:#999">Nền tảng web cho mọi thiết bị công nghệ</h5>
 </div>
 <div class="row">
@@ -11,13 +11,13 @@
 	<nav id="jlinks">
 		<ul>
 			<li id="linhhoat"><h5>
-				<a href="#" class="skip" gumby-goto="#linhhoat_img" gumby-duration="1500" gumby-offset="-60">Linh hoạt</a>
+				<a href="javascript:{}" class="skip" gumby-goto="#linhhoat_img" gumby-duration="1500" gumby-offset="-60">Linh hoạt</a>
 			</h5></li>
 			<li id="hieuqua"><h5>
-				<a href="#" class="skip" gumby-goto="#hieuqua_img" gumby-duration="1500" gumby-offset="-60">Hiệu quả</a>
+				<a href="javascript:{}" class="skip" gumby-goto="#hieuqua_img" gumby-duration="1500" gumby-offset="-60">Hiệu quả</a>
 			</h5></li>
 			<li id="giamchiphi"><h5>
-				<a href="#" class="skip" gumby-goto="#tietkiem_img" gumby-duration="1500" gumby-offset="-60">Tiết kiệm</a>
+				<a href="javascript:{}" class="skip" gumby-goto="#tietkiem_img" gumby-duration="1500" gumby-offset="-60">Tiết kiệm</a>
 			</h5></li>
 		</ul>
 	</nav>

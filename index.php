@@ -49,9 +49,11 @@
        However, there is a blank style.css in the css directory should you prefer -->
     <link rel="stylesheet" href="css/gumby.css">
     <!-- <link rel="stylesheet" href="css/style.css"> -->
-
-    <!-- font google -->
-    <link href='http://fonts.googleapis.com/css?family=PT+Sans' rel='stylesheet' type='text/css'>
+    
+    <!-- link font-face -->
+    <link rel="stylesheet" href="fonts/UTMGloria/stylesheet.css">
+    <link rel="stylesheet" href="fonts/facebookfont/stylesheet.css">
+    <link rel="stylesheet" href="fonts/neo_sans_intel/stylesheet.css">
 
     <script src="js/libs/modernizr-2.6.2.min.js"></script>
 
