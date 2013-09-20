@@ -54,6 +54,7 @@
     <link rel="stylesheet" href="fonts/UTMGloria/stylesheet.css">
     <link rel="stylesheet" href="fonts/facebookfont/stylesheet.css">
     <link rel="stylesheet" href="fonts/neo_sans_intel/stylesheet.css">
+    <link rel="stylesheet" href="fonts/robotofontsface/stylesheet.css">
 
     <script src="js/libs/modernizr-2.6.2.min.js"></script>
 
