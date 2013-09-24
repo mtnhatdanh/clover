@@ -53,8 +53,8 @@
     <!-- link font-face -->
     <link rel="stylesheet" href="fonts/UTMGloria/stylesheet.css">
     <link rel="stylesheet" href="fonts/facebookfont/stylesheet.css">
-    <link rel="stylesheet" href="fonts/neo_sans_intel/stylesheet.css">
     <link rel="stylesheet" href="fonts/robotofontsface/stylesheet.css">
+    <link rel="stylesheet" href="fonts/sourcesanspro_fontface/stylesheet.css">
 
     <script src="js/libs/modernizr-2.6.2.min.js"></script>
 
@@ -131,8 +131,8 @@
                         <a href="#">Sản phẩm</a>
                         <div class="dropdown">
                             <ul>
-                                <li><a href="#">Item</a></li>
-                                <li><a href="#">Item</a></li>
+                                <li><a href="#">Thiết kế web theo chuẩn RWD</a></li>
+                                <li><a href="?mod=phanmem_quanlynhahang">Phần mềm quản lý nhà hàng</a></li>
                             </ul>
                         </div>
                     </li>
@@ -144,7 +144,7 @@
 
     <section role="main_container">
     <?php
-    if(!isset($mod)) $mod = 'trangchu';
+    if(!isset($_GET['mod'])) $mod = 'trangchu'; else $mod = $_GET['mod'];
     require 'modules/'.$mod.'.php';
     ?>
     </section>

@@ -39,6 +39,15 @@
 	<!-- <link rel="stylesheet" href="css/style.css"> -->
 
 	<script src="js/libs/modernizr-2.6.2.min.js"></script>
+	<style>
+		i {
+			height: 100px;
+		}
+		#testicon {
+			color: black;
+			vertical-align: middle;
+		}
+	</style>
 </head>
 
 <body>
@@ -98,7 +107,8 @@
 	<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
 	<![endif]-->
 
-	<h1 style="font-family:'utm_gloriaregular'">ABC</h1>
+	<h1 style="font-family:'utm_gloriaregular'">def</h1>
+	<h4><i id="testicon" class="icon-facebook-squared" ></i> <i class="icon-gplus"></i> <i class="icon-twitter"></i></h4>
 
 </body>
 </html>

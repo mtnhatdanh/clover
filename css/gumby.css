@@ -1917,3 +1917,9 @@ div#G3 article div#tietkiem_img { width: 18em; }
 div#G3 article div#tietkiem_nd { padding-left: 5em; }
 @media only screen and (max-width: 767px) { div#G3 article div#tietkiem_nd { padding-left: 0; } }
 div#G3 article div#tietkiem_nd img { margin-bottom: 1em; }
+
+section#phanmem_quanlynhahang h1, section#phanmem_quanlynhahang h2, section#phanmem_quanlynhahang h3, section#phanmem_quanlynhahang h4, section#phanmem_quanlynhahang h5, section#phanmem_quanlynhahang h6 { font-family: source_sans_proregular; }
+section#phanmem_quanlynhahang ul { list-style: disc; }
+section#phanmem_quanlynhahang div#phandatban { padding: 2em 0 2em 0; }
+section#phanmem_quanlynhahang div#phanbaocao { padding: 2em 0 2em 0; background: #e9e9e9; }
+section#phanmem_quanlynhahang div#hotrokythuat { padding: 2em 0 2em 0; }
